@@ -1,0 +1,4 @@
+# Optional extra blocklist (hosts format or one domain per line).
+# Paste a list such as StevenBlack/hosts here to extend the built-in rules.
+# Example:
+# 0.0.0.0 ads.example.com

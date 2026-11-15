@@ -1,0 +1,5 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/aether_bar" />
+    <corners android:radius="30dp" />
+    <stroke android:width="0.8dp" android:color="@color/aether_stroke" />
+</shape>

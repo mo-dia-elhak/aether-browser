@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.Aether" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/aether_accent</item>
+        <item name="android:windowBackground">@color/aether_bg</item>
+        <item name="android:statusBarColor">@color/aether_bg</item>
+        <item name="android:navigationBarColor">@color/aether_bg</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+</resources>

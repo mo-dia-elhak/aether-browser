@@ -1,0 +1,7 @@
+<resources>
+    <color name="aether_bg">#000000</color>
+    <color name="aether_card">#1C1C1E</color>
+    <color name="aether_bar">#E62C2C2E</color>
+    <color name="aether_pill">#3D767680</color>
+    <color name="aether_stroke">#33FFFFFF</color>
+</resources>
