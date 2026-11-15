@@ -7,7 +7,7 @@ Interface preview (design mockup of the layout and colors).
 
 | Start page | Tab switcher (dark mode) | Settings & search engines |
 |:---:|:---:|:---:|
-| <img src="docs/screenshots/01-start-page.png" width="240" alt="Æther start page with favorites and blocked counter"> | <img src="docs/screenshots/02-tab-switcher-dark.png" width="240" alt="Card-style tab grid in dark mode"> | <img src="docs/screenshots/03-settings.png" width="240" alt="Settings sheet with search engine choices and privacy switches"> |
+| <img src="C:\Users\diasc\Downloads\Telegram Desktop\photo_2026-11-15_11-51-26.jpg" width="240" alt="Æther start page with favorites and blocked counter"> | <img src="docs/screenshots/02-tab-switcher-dark.png" width="240" alt="Card-style tab grid in dark mode"> | <img src="docs/screenshots/03-settings.png" width="240" alt="Settings sheet with search engine choices and privacy switches"> |
 
 ## Requirements
 Android Studio Koala (2024.1) or newer, JDK 17 (bundled), Android SDK 34. minSdk 29 (Android 10+).
